@@ -23,7 +23,7 @@ def time_conversion(s):
         "12": "12",
     }
     meridiemAm = {
-        12: "00",
+        "12": "00",
     }
 
     meridiem = s[len(s) - 2:len(s)]

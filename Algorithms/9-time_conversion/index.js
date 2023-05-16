@@ -21,7 +21,7 @@ function timeConversion(s) {
   };
 
   let meridiemAm = {
-    12: "00",
+    "12": "00",
   };
 
   let militaryHour = "";
