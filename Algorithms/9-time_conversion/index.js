@@ -1,4 +1,3 @@
-
 // Test case 1
 const time = "07:05:45PM";
 
@@ -16,9 +15,9 @@ function timeConversion(s) {
     "07": 19,
     "08": 20,
     "09": 21,
-    10: 22,
-    11: 23,
-    12: 12,
+    "10": 22,
+    "11": 23,
+    "12": 12,
   };
 
   let meridiemAm = {
